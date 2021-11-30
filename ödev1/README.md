@@ -1,0 +1,1 @@
+# Odev başarıyla github'a yüklenmiştir.
